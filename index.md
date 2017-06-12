@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[comment]: <> (cheatsheet:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 [comment]: <> (reference template: https://github.com/pages-themes/minimal/blob/master/index.md)
 
 | #          | Title                                                          | Difficulty | Solution         |
