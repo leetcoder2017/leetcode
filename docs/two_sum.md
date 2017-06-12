@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 
 | Time Complexity | Space Complexity |
 |:----------------|:-----------------|
