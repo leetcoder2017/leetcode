@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 
 | Time Complexity | Space Complexity |
