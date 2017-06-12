@@ -6,4 +6,4 @@ layout: default
 
 | #          | Title                                                          | Difficulty | Solution         |
 |:-----------|:---------------------------------------------------------------|:-----------|:-----------------|
-| 1          | [Two Sum](https://leetcode.com/problems/two-sum/#/description) | Easy       |[O(n)](solutions/two_sum.md)|
+| 1          | [Two Sum](https://leetcode.com/problems/two-sum/#/description) | Easy       |[O(n)](two_sum.md)|
