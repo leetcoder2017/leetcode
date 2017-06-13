@@ -1,2 +1,14 @@
-theme: jekyll-theme-minimal
-baseurl: /leetcode
+# Site settings
+title: leetcode
+baseurl: "/leetcode"
+url: "https://leetcoder2017.github.io"
+
+# Build settings
+kramdown:
+  input: GFM
+permalink: pretty
+
+# Third-party services
+# just leave blank to disable it
+google_analytics: 
+disqus_shortname: 
