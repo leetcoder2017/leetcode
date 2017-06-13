@@ -5,7 +5,7 @@ layout: default
 
 | #          | Title                                                          | Difficulty | Solution         |
 |:-----------|:---------------------------------------------------------------|:-----------|:-----------------|
-| 1          | [Two Sum](https://leetcode.com/problems/two-sum/#/description) | Easy       |[O(n)](2015-11-16-two-sum.md)|
+| 1          | [Two Sum](https://leetcode.com/problems/two-sum/#/description) | Easy       |[O(n)](2015/11/15/two-sum.md)|
 
 <div class="home">
 	<section>
