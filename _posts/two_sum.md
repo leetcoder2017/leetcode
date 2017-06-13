@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: post
+title:  Two Sum
 ---
 
 | Time Complexity | Space Complexity |
